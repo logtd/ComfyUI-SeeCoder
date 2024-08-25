@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-seecoder"
+description = "ComfyUI nodes to use the SeeCoder from [a/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/logtd/ComfyUI-SeeCoder"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-SeeCoder"
+Icon = ""
